@@ -43,11 +43,12 @@ Passionate about building scalable web applications
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 My Portfolio
 
 <p align="center">
-  My Portfolio
-<a href ="https://nti-graduation-project.vercel.app/"/>
+  <a href="https://nti-graduation-project.vercel.app/">
+    Visit My Portfolio
+  </a>
 </p>
 
 ---
@@ -63,14 +64,31 @@ Built with **ASP.NET Core + Angular**
 
 ---
 
+
 ## 📫 Connect with Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/muhamed1ali">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:medoaliii927@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+201147886551">
+<img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://app.flowcv.com/resume/content">
+<img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
 
 </p>
 
 ---
 
-⭐ From [mohumedali]([https://github.com/YOUR_USERNAME](https://github.com/mohumedali))
+⭐ From [mohumedali](https://github.com/mohumedali)
+
+

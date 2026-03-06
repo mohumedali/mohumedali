@@ -46,7 +46,8 @@ Passionate about building scalable web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  My Portfolio
+<a href = "https://nti-graduation-project.vercel.app/">
 </p>
 
 ---
@@ -67,12 +68,6 @@ Built with **ASP.NET Core + Angular**
 <p align="center">
 
 <a href="https://www.linkedin.com/in/muhamed1ali">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
 
 </p>
 

@@ -46,8 +46,8 @@ Passionate about building scalable web applications
 ## 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://nti-graduation-project.vercel.app/">
-    Visit My Portfolio
+  <a href="https://nti-graduation-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit-My%20Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
 
@@ -77,9 +77,10 @@ Built with **ASP.NET Core + Angular**
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="tel:+201147886551">
+<p>
+  +201147886551
 <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+</p>
 
 <a href="https://app.flowcv.com/resume/content">
 <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=adobeacrobatreader"/>

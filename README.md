@@ -77,9 +77,8 @@ Built with **ASP.NET Core + Angular**
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p>
-  +201147886551
-<img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Phone-%2B20%201147886551-green?style=for-the-badge&logo=phone&logoColor=white"/>
 </p>
 
 <a href="https://app.flowcv.com/resume/content">

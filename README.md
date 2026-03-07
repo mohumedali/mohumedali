@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mido Ali</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">Full Stack Developer (.NET & Angular)</h3>
 
 <p align="center">
@@ -67,26 +67,31 @@ Built with **ASP.NET Core + Angular**
 
 ## 📫 Connect with Me
 
+## 📫 Connect with Me
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/muhamed1ali">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:medoaliii927@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="mailto:midoaliii927@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-midoaliii927%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Phone-%2B20%201147886551-green?style=for-the-badge&logo=phone&logoColor=white"/>
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Phone-%2B20%201147886551-green?style=for-the-badge&logo=phone&logoColor=white"/>
+
+&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/1kRt70k2DKrI7KLU6bUrhzGIyqZfKvhl2/view">
+<img src="https://img.shields.io/badge/CV-View%20CV-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
-
-<a href="https://app.flowcv.com/resume/content">
-<img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=adobeacrobatreader"/>
-</a>
-
-</p>
-
 ---
 
 ⭐ From [mohumedali](https://github.com/mohumedali)

@@ -67,37 +67,42 @@ Built with **ASP.NET Core + Angular**
 
 ## 📫 Connect with Me
 
+<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<p>
 <a href="https://www.linkedin.com/in/muhamed1ali">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center">
 
 <a href="mailto:midoaliii927@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-midoaliii927%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center">
 
 <img src="https://img.shields.io/badge/Phone-%2B20%201147886551-green?style=for-the-badge&logo=phone&logoColor=white"/>
 
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center">
 
 <a href="https://drive.google.com/file/d/1kRt70k2DKrI7KLU6bUrhzGIyqZfKvhl2/view">
 <img src="https://img.shields.io/badge/CV-View%20CV-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
+</td>
 
-</p>
----
+</tr>
+</table>
+</p>---
 
 ⭐ From [mohumedali](https://github.com/mohumedali)
 

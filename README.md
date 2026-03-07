@@ -67,9 +67,9 @@ Built with **ASP.NET Core + Angular**
 
 ## 📫 Connect with Me
 
-## 📫 Connect with Me
 
-<p align="center">
+
+<p>
 
 <a href="https://www.linkedin.com/in/muhamed1ali">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>

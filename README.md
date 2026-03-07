@@ -68,14 +68,14 @@ Built with **ASP.NET Core + Angular**
 ## 📫 Connect with Me
 
 
-
+&nbsp;&nbsp;
 <p>
 
 <a href="https://www.linkedin.com/in/muhamed1ali">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+
 
 <a href="mailto:midoaliii927@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-midoaliii927%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
